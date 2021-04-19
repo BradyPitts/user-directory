@@ -1,0 +1,28 @@
+div {
+  height: 55vh;
+  width:65vw;
+  background-color: white;
+}
+
+h3{
+  float: right;
+  margin:15px;
+}
+
+h2 {
+  /* float: left; */
+  margin: 30px;
+  margin-left: 50px;
+  text-decoration:underline  skyblue;
+}
+
+p{
+  margin: 10px;
+  margin-left: 50px;
+}
+
+ol{
+  margin:20px;
+  margin-left: 40px;
+}
+

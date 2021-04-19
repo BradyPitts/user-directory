@@ -1,0 +1,29 @@
+main {
+  background-color: rgb(46, 46, 46);
+  height: 87.5vh;
+  width:100vw;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap:wrap;
+}
+
+.nav {
+  height:4vh;
+  width:7vw;
+  color: white;
+  background: none;
+  margin-left:15vw;
+  margin-right:15vw;
+}
+
+.edn {
+ height: 4vh;
+ width: 7vw;
+ background-color: skyblue;
+ border-radius: 20px;
+}
+
+h1{
+  color: white;
+}
